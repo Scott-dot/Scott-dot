@@ -1,33 +1,41 @@
 # Scott Biggin
 **| Data Analyst |**
 
-Building production data pipelines and analytics solutions. Specialized in SQL, Snowflake, and dimensional modeling.
+I build data pipelines and analytics solutions at Coles, working mostly with Snowflake and SQL. Spent about 2 years building production ETL pipelines, designing data models, and helping business teams make sense of supply chain data.
 
-## 🛠️ Tech Stack
+Currently learning Azure, DBT, and formalizing my data modeling knowledge (reading through Kimball's book right now). Looking to move into a dedicated Data Engineering or Data Modelling role.
 
-**Data & Databases:**
-- SQL (Snowflake, PostgreSQL)
-- Python (Pandas, SQLAlchemy)
-- Data Modeling (Star Schema, SCD2)
+## What I Work With
+
+**Day-to-day:**
+- SQL (Snowflake mostly, some PostgreSQL concepts)
+- Python for transformations and automation
+- Power BI (semantic models, DAX, row-level security)
+- Data modeling - star schemas, SCD2 patterns, dimensional design
 
 **Cloud & Tools:**
-- Azure (learning - AZ-900 in progress)
-- DBT (learning fundamentals)
-- Git, Power BI, Power Automate
+- Snowflake (production experience - streams, tasks, dynamic tables, clustering)
+- Azure (learning fundamentals, working toward AZ-900)
+- DBT (going through the fundamentals course)
+- Git, Power Automate, Control-M
 
-**Current Focus:**
-- Azure fundamentals & DBT
-- Data modeling methodologies (Kimball)
-- Building portfolio of production patterns
+**Background:**
+- >1.5 years at Coles building pipelines and models
+- Before that: ~3 years at PwC doing SAP implementations and data migrations
+- Bachelor of IT (Software Engineering) from Victoria University
 
-## 📂 Portfolio Projects
+## What I'm Working On
 
-Coming soon: Snowflake transformation patterns, data modeling examples, and ETL pipelines.
+Right now I'm building out a portfolio of production patterns I've used - things like SCD2 implementations, working with Snowflake's variant data types, performance optimizations. Also learning Azure and DBT to expand beyond just Snowflake.
 
-## 📫 Connect
+Check out my [Snowflake patterns repo](https://github.com/Scott-dot/snowflake-patterns) for some examples of production SQL work.
+
+## Connect
+
 - LinkedIn: https://www.linkedin.com/in/scottbiggin/
 - Email: scott.m.biggin@gmail.com
 
 ---
 
-*Currently learning: Azure Data Engineering, DBT, advanced data modeling*
+*Currently reading: The Data Warehouse Toolkit (Kimball), Fundamentals of Data Engineering*
+*Currently learning: Azure fundamentals, DBT, data modeling methodologies*
