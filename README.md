@@ -21,7 +21,7 @@ Currently learning Azure, DBT, and formalizing my data modeling knowledge (readi
 
 
 **Background:**
-- >1.5 years at Coles building pipelines and models
+- 1.5 years at Coles building pipelines and models
 - Before that: ~3 years at PwC doing SAP implementations and data migrations
 - Bachelor of IT (Software Engineering) from Victoria University
 
