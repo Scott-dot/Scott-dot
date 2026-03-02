@@ -1,16 +1,33 @@
-## Hi there 👋
+# Scott Biggin
+**| Data Analyst |**
 
-<!--
-**Scott-dot/Scott-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building production data pipelines and analytics solutions. Specialized in SQL, Snowflake, and dimensional modeling.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data & Databases:**
+- SQL (Snowflake, PostgreSQL)
+- Python (Pandas, SQLAlchemy)
+- Data Modeling (Star Schema, SCD2)
+
+**Cloud & Tools:**
+- Azure (learning - AZ-900 in progress)
+- DBT (learning fundamentals)
+- Git, Power BI, Power Automate
+
+**Current Focus:**
+- Azure fundamentals & DBT
+- Data modeling methodologies (Kimball)
+- Building portfolio of production patterns
+
+## 📂 Portfolio Projects
+
+Coming soon: Snowflake transformation patterns, data modeling examples, and ETL pipelines.
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/scottbiggin/
+- Email: scott.m.biggin@gmail.com
+
+---
+
+*Currently learning: Azure Data Engineering, DBT, advanced data modeling*
