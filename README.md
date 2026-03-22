@@ -1,35 +1,56 @@
 # Scott Biggin
 **| Data Analyst |**
 
-I build data pipelines and analytics solutions at Coles, working with Snowflake and SQL. Spent about 2 years building production ETL pipelines, designing data models, and helping business teams make sense of supply chain data.
+I build data pipelines and analytics solutions at Coles, working with Snowflake 
+and SQL. Around 2 years building production ETL pipelines, designing data models, 
+and helping business teams make sense of supply chain data.
 
-Currently learning Azure, DBT, and formalizing my data modeling knowledge (reading through Kimball's book right now). Looking to move into a dedicated Data Engineering or Data Modelling role.
+Currently pivoting toward client-facing technical roles — Solutions Engineer, 
+Forward Deployed Engineer, or Implementation Engineer — with a focus on LLM 
+integration and AI-augmented data pipelines.
+
+---
+
+## What I'm Building
+
+### AI & LLM Projects
+- **[Maintenance Report Generator](https://github.com/Scott-dot/maintenance-report-generator)**  
+  Data-to-narrative pipeline: work order data → aggregation → LLM narration → 
+  styled HTML report. Demonstrates prompt engineering and LLM integration in a 
+  data engineering context.
+
+- **[RAG Q&A System](https://github.com/Scott-dot/rag-qa-system)**  
+  Retrieval-augmented generation pipeline: document ingestion → ChromaDB vector 
+  storage → semantic retrieval → locally-hosted LLM answer generation.
+
+---
 
 ## What I Work With
 
-**Day-to-day:**
-- Snowflake (production experience - streams, tasks, dynamic tables, clustering)
-- SQL
-- Python for transformations and automation
-- Power BI (semantic models, DAX, row-level security)
-- Data modeling - star schemas, SCD2 patterns, dimensional design
+**Data Platform**  
+Snowflake (production — streams, tasks, dynamic tables, SCD2, clustering, variant 
+types), SQL, Python, Power BI
 
-**Cloud & Tools:**
-- Azure (learning fundamentals, working toward AZ-900)
-- DBT (going through the fundamentals course)
-- Git, Power Automate, Control-M
+**AI/LLM Stack**  
+Ollama, ChromaDB, sentence-transformers, LangChain (learning), prompt engineering, 
+RAG architecture
 
+**Cloud & Tools**  
+Azure (fundamentals), dbt (learning), Git, Power Automate, Control-M
 
-**Background:**
-- ~1.5 years at Coles building pipelines and models
-- Before that: ~3 years at PwC doing SAP implementations and data migrations
-- Bachelor of IT (Software Engineering) from Victoria University
+---
 
-## What I'm Working On
+## Background
 
-Right now I'm building out a portfolio of production patterns I've used - things like SCD2 implementations, working with Snowflake's variant data types, performance optimizations. Also learning Azure and DBT to expand beyond just Snowflake.
+- ~2 years at Coles — production ETL pipelines, Snowflake data modelling, 
+  supply chain analytics
+- ~3 years at PwC — SAP implementations, data migrations, client-facing delivery
+- Bachelor of IT (Software Engineering), Victoria University
 
-Check out my [Snowflake patterns repo](https://github.com/Scott-dot/snowflake-patterns) for some examples of production SQL work.
+Currently working through Kimball's *The Data Warehouse Toolkit* and 
+*Fundamentals of Data Engineering* (Reis & Housley).
+
+---
 
 ## Connect
 
