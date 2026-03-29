@@ -16,8 +16,7 @@ integration and AI-augmented data pipelines.
 ### AI & LLM Projects
 - **[Maintenance Report Generator](https://github.com/Scott-dot/maintenance-report-generator)**  
   Data-to-narrative pipeline: work order data → aggregation → LLM narration →
-  styled HTML report. Demonstrates prompt engineering and LLM integration in a
-  data engineering context.
+  styled HTML report.
 
 - **[RAG Q&A System](https://github.com/Scott-dot/rag-qa-system)**  
   Retrieval-augmented generation pipeline: document ingestion → ChromaDB vector
